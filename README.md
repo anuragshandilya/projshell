@@ -1,0 +1,4 @@
+projshell
+=========
+
+a small project
