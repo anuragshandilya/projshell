@@ -1,6 +1,7 @@
 /*Code for project C-shell.
-Author - Anurag Shandilya
-Start Date- 16-10-2013
+Author - Anurag Shandilya.
+This file is under GPL v3.
+Start Date- 16-10-2013.
 */
     #include <stdio.h>
     #include <sys/types.h>
@@ -42,7 +43,7 @@ int main( int argc, char* argv[])
 		}
 		else
 		{
-			puts("Dude....");
+			puts("No such directory found.");
 		}
 	
 	}
