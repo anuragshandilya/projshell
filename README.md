@@ -1,4 +1,4 @@
 projshell
 =========
 
-a small project
+A small test project in C.
